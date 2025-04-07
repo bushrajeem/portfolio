@@ -6,7 +6,7 @@ import { Experience } from "./components/Experience";
 import Services from "./components/Services";
 import Works from "./components/Works";
 
-function Home() {
+export const Home =()=>{
   return (
     <Layout>
       <Banner />
@@ -19,4 +19,4 @@ function Home() {
   );
 }
 
-export default Home;
+
