@@ -1,0 +1,43 @@
+{
+  "expData": [
+    {
+      "image": "/pic/UI.png",
+      "name": "Ui/Ux Design",
+      "description": "Dolor repellendus temporibus autem quibusdam officiis debitis rerum neces aibus minima veniam.",
+      "id": "218f"
+    }
+  ],
+  "login": [
+    {
+      "email": "admin@admin.com",
+      "password": "admin@admin.com",
+      "id": "fb89"
+    },
+    {
+      "email": "admin2@admin.com",
+      "password": "admin2@admin.com",
+      "id": "4f4c"
+    }
+  ],
+  "home": [],
+  "blog": [
+    {
+      "image": "/pic/1.png",
+      "name": "  UI/UX Design",
+      "description": " User interface design or user interface engineering",
+      "id": "e2a0"
+    },
+    {
+      "image": "/pic/2.png",
+      "id": "1009",
+      "name": "Web Design",
+      "description": "Web design encompasses many different skills"
+    },
+    {
+      "image": "/pic/3.png",
+      "id": "f588",
+      "name": "Web Development",
+      "description": " Web design encompasses many different skills"
+    }
+  ]
+}

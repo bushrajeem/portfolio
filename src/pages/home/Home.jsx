@@ -1,12 +1,22 @@
-
-import Banner from './components/Banner'
+import Layout from "../../layout";
+import Banner from "./components/Banner";
+import Blog from "./components/Blog";
+import Connect from "./components/Connect";
+import { Experience } from "./components/Experience";
+import Services from "./components/Services";
+import Works from "./components/Works";
 
 function Home() {
   return (
-    <div>
+    <Layout>
       <Banner />
-    </div>
-  )
+      <Services />
+      <Experience />
+      <Works />
+      <Blog />
+      <Connect />
+    </Layout>
+  );
 }
 
-export default Home
+export default Home;

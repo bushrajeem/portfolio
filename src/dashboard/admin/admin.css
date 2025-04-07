@@ -1,0 +1,17 @@
+a.active {
+    color: black;
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    color: white;
+  }
+  
+  a.pending {
+    animate: pulse 1s infinite;
+  }
+  
+  a.transitioning {
+    /* css transition is running */
+  }
+  
