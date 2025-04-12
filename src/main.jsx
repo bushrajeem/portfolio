@@ -9,7 +9,8 @@ import AdminHome from "./dashboard/admin/AdminHome.jsx";
 import "./index.css";
 
 import Adminlogin from "./shared/Adminlogin.jsx";
-import { Home } from "./pages/home/home.jsx";
+import { Home } from "./pages/home/Home.jsx";
+
 
 const router = createBrowserRouter([
   { path: "/", element: <Home /> },
