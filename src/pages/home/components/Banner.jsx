@@ -29,7 +29,7 @@ function Banner() {
 
         <img
           className="col-span-1 h-[500px] w-[500px] ml-5"
-          src="/profile/person.png"
+          src="https://res.cloudinary.com/dryxnxrj3/image/upload/v1744460112/person_g7v4wv.png"
           alt=""
         />
       </div>

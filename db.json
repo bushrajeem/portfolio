@@ -5,6 +5,21 @@
       "name": "Ui/Ux Design",
       "description": "Dolor repellendus temporibus autem quibusdam officiis debitis rerum neces aibus minima veniam.",
       "id": "218f"
+    },
+    {
+      "id": "",
+      "name": "Web Design",
+      "description": "Dolor repellendus temporibus autem quibusdam officiis debitis rerum neces aibus minima veniam."
+    },
+    {
+      "id": "",
+      "name": "Web Development",
+      "description": "Dolor repellendus temporibus autem quibusdam officiis debitis rerum neces aibus minima veniam."
+    },
+    {
+      "id": "",
+      "name": "App Development",
+      "description": "Dolor repellendus temporibus autem quibusdam officiis debitis rerum neces aibus minima veniam."
     }
   ],
   "login": [
@@ -22,19 +37,19 @@
   "home": [],
   "blog": [
     {
-      "image": "/pic/1.png",
+      "image": "https://res.cloudinary.com/dryxnxrj3/image/upload/v1744460443/1_pgir3a.png",
       "name": "  UI/UX Design",
       "description": " User interface design or user interface engineering",
       "id": "e2a0"
     },
     {
-      "image": "/pic/2.png",
+      "image": "https://res.cloudinary.com/dryxnxrj3/image/upload/v1744460442/2_n6bcxf.png",
       "id": "1009",
       "name": "Web Design",
       "description": "Web design encompasses many different skills"
     },
     {
-      "image": "/pic/3.png",
+      "image": "https://res.cloudinary.com/dryxnxrj3/image/upload/v1744460443/3_izksep.png",
       "id": "f588",
       "name": "Web Development",
       "description": " Web design encompasses many different skills"

@@ -35,7 +35,7 @@ function Admin() {
           </NavLink>
           <NavLink className="mt-6" to="banner">Banner</NavLink>
           <NavLink className="mt-6" to="experience">Experience</NavLink>
-          <NavLink className="mt-6" to="portfolio">Portfolio</NavLink>
+          <NavLink className="mt-6" to="portfolio">Blog</NavLink>
           
         </div>
       <div className="p-5">

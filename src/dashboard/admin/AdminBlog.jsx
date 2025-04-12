@@ -22,6 +22,10 @@ function AdminBlog() {
     console.log(response);
   }
 
+  const onDelete = async(values) => {
+   axios.delete(`http://localhost:3000/blog/${values.id}`);
+  }
+
   return (
     <div>
      <form onSubmit={form.handleSubmit(onSubmit)} className="grid grid-cols-2 gap-5 p-10">
@@ -54,6 +58,7 @@ function AdminBlog() {
       <p className="font-bold"> name: {item.name} </p>
       <p>description: {item.description}</p>
       <button
+      onClick={()=>{onDelete(item)}}
         className="text-white bg-orange-500 rounded-4xl p-2 mt-3"
         type="submit"
       >
