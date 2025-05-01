@@ -1,4 +1,4 @@
-import App from "../../App";
+// import App from "../../App";
 import Layout from "../../layout";
 import Banner from "./components/Banner";
 import Blog from "./components/Blog";
@@ -16,7 +16,7 @@ export const Home =()=>{
       <Works />
       <Blog />
       <Connect />
-      <App />
+      {/* <App /> */}
     </Layout>
   );
 }

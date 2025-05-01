@@ -22,6 +22,26 @@
       "description": "Dolor repellendus temporibus autem quibusdam officiis debitis rerum neces aibus minima veniam."
     }
   ],
+  "service": [
+    {
+      "image": "/pic/uis.png",
+      "name": "UI/UX Design",
+      "details": "Rror te inal desiga othe fal dveoprer age your adcased men Mageeef speists",
+      "bg": "bg-fuchsia-700"
+    },
+    {
+      "image": "/pic/wd.png",
+      "name": "Web Design",
+      "details": "Rror te inal desiga othe fal dveoprer age your adcased men Mageeef speists",
+      "bg": "bg-orange-500"
+    },
+    {
+      "image": "/pic/wd.png",
+      "name": "Digital Marketing",
+      "details": "Rror te inal desiga othe fal dveoprer age your adcased men Mageeef speists",
+      "bg": "bg-orange-500"
+    }
+  ],
   "login": [
     {
       "email": "admin@admin.com",

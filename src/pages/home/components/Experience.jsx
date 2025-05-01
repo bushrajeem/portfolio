@@ -7,7 +7,7 @@ export const Experience= () => {
   
   useEffect(()=>{
    axios.get("http://localhost:3000/expData").then(response => setExperience(response.data));
-  })
+  },[]);
 
   return (
     <div className=" bg-[#f8f8f8] px-[90px] py-10 mt-10">
